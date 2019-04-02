@@ -1,0 +1,46 @@
+body{
+    font-family: 'Raleway', sans-serif;
+
+}
+.menu{
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    padding: 20px;
+    color: white;
+}
+.wel{
+    text-align: center;
+}
+.serv1{
+    text-align: center;
+    padding: 0px;
+    
+}
+.serv2{
+
+    text-align: center;
+    
+    
+    
+}
+.footer{
+    text-align: center;
+    background-color: rgb(49, 50, 53);
+    color: white;
+    padding: 5px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.botat{
+    text-decoration: none;
+    color: white;
+}
+.botata{
+    text-decoration: none;
+    color: black;
+}
